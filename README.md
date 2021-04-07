@@ -33,4 +33,4 @@
 </p>
 
 <h4> Small preview </h4>
-<img src="./images/letsplay.gif"/>
+<img src="./images/letsplay.gif" style="width: 800px"/>
