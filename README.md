@@ -31,3 +31,6 @@
     <li> The player can still place stones while the "AI" is making up its mind (The 1,5s delay)</li>
   </ul>
 </p>
+
+<h4> Small preview </h4>
+<img src="./images/letsplay.gif"/>
